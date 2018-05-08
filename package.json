@@ -1,0 +1,25 @@
+{
+  "name": "iview-year-range-picker",
+  "version": "1.0.0",
+  "description": "iview年代范围选择器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsyczhanghao/iview-year-range-picker.git"
+  },
+  "keywords": [
+    "iview",
+    "year",
+    "range",
+    "picker"
+  ],
+  "author": "jsychzhanghao@sina.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsyczhanghao/iview-year-range-picker/issues"
+  },
+  "homepage": "https://github.com/jsyczhanghao/iview-year-range-picker#readme"
+}
